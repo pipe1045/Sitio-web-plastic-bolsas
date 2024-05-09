@@ -1,0 +1,7 @@
+echo "# Sitio-web-plastic-bolsas" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pipe1045/Sitio-web-plastic-bolsas.git
+git push -u origin main
